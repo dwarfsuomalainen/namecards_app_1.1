@@ -1,0 +1,6 @@
+.container {
+    margin: 26px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 16px;
+}
