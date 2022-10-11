@@ -1,4 +1,4 @@
-# Assignment "Namecards App" 
+# Assignment "Namecards App" version 1.1
 
 Web application displaying a main page with address cards and providing a full personal information on separete address card.
 
