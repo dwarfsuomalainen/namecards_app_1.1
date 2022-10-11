@@ -1,0 +1,47 @@
+.card {
+    min-width: 300px !important;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .cardBody {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background-color: pink;
+  }
+  
+  .list {
+    margin: 0;
+    padding-left: 1em;
+  }
+  
+  .list > li {
+    padding-left: 0.5em;
+  }
+  
+  .dashList {
+    list-style-type: "\2013"; /* &ndash; */
+  }
+  
+  .discList {
+    list-style-type: "\2022"; /* &bull; */
+  }
+/*.card {
+    flex: 1 1 300px;
+    min-width: 300px;
+    max-width: 350px;
+    margin: 20px;
+
+    
+}
+
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    gap: 8px;
+    background-color: pink;
+    opacity: 0,3;
+}*/
+

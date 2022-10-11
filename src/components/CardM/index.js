@@ -1,0 +1,1 @@
+export { CardM } from "./CardM"
