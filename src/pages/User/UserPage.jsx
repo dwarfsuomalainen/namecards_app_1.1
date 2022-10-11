@@ -12,7 +12,7 @@ export const UserPage = () => {
 
   useEffect(() => {
     getUser(params.userId).then((user) => setUser(user));
-  });
+  }, []);
 
   return (
     <div className={styles.page}>

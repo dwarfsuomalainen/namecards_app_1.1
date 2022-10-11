@@ -1,49 +1,49 @@
 .cardBody {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 16px;
-    background-color: pink;
-  }
-  
-  .avatar {
-    width: 160px;
-    height: 160px;
-    background-color: blanchedalmond;
-    border-radius: 50%;
-    display: grid;
-    align-items: center;
-    justify-items: center;
-  }
-  
-  .nameLetter {
-    font-size: 60px;
-    line-height: 1em;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-  
-  .infoContainer {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    flex: 1;
-    align-items: center;
-    text-align: center;
-  }
-  
-  .infoContainer > * {
-    line-height: 1em;
-  }
-  
-  .nick {
-    font-style: italic;
-  }
-  
-  .name {
-    font-size: 28px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    color: blueviolet;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  background-color: pink;
+}
+
+.avatar {
+  width: 160px;
+  height: 160px;
+  background-color: blanchedalmond;
+  border-radius: 50%;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+.nameLetter {
+  font-size: 60px;
+  line-height: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  align-items: center;
+  text-align: center;
+}
+
+.infoContainer > * {
+  line-height: 1em;
+}
+
+.nick {
+  font-style: italic;
+}
+
+.name {
+  font-size: 28px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: blueviolet;
+}

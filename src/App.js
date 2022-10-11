@@ -1,4 +1,4 @@
-import React from 'react';
-import {AppRouter} from "./routes";
+import React from "react";
+import { AppRouter } from "./routes";
 
-export const App = () => <AppRouter />
+export const App = () => <AppRouter />;

@@ -1,6 +1,6 @@
 import React from "react";
 import { Button as BootstrapButton } from "react-bootstrap";
-import styles from "./Button.module.css"
+import styles from "./Button.module.css";
 
 /*const buttonStyle = {
   margin: '5px',

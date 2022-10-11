@@ -1,2 +1,2 @@
-export {UserPage} from "./User";
-export {UsersPage} from "./Users"
+export { UserPage } from "./User";
+export { UsersPage } from "./Users";

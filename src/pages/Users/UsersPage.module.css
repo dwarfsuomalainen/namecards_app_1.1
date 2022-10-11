@@ -1,11 +1,11 @@
 .page {
-    padding: 24px;
-    display: grid;
-    gap: 16px;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    justify-items: center;
-  }
-  
-  .page > * {
-      width: 100%;
-  }
+  padding: 24px;
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center;
+}
+
+.page > * {
+  width: 100%;
+}

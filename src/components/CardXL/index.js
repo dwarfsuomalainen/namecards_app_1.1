@@ -1,1 +1,1 @@
-export { CardXL } from "./CardXL"
+export { CardXL } from "./CardXL";
