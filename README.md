@@ -1,10 +1,9 @@
 # Assignment "Namecards App" version 1.1
 
 Web application displaying a main page with address cards and providing a full personal information on separete address card.
-
-
-<img width="1683" alt="1" src="https://user-images.githubusercontent.com/73884598/194262096-5d0cb1d0-aaed-49c1-b874-b912dfacc47a.png">
-<img width="399" alt="2" src="https://user-images.githubusercontent.com/73884598/194262091-46e37eb8-9b5c-482c-9561-953db4755abc.png">
+<img width="1792" alt="1" src="https://user-images.githubusercontent.com/73884598/195063442-1617b0b2-7bec-43d5-8db7-e4134a78ae50.png">
+<img width="1144" alt="2" src="https://user-images.githubusercontent.com/73884598/195063462-7aa9145f-e2f2-4d35-a6e7-7bfb85b3d113.png">
+<img width="1028" alt="3" src="https://user-images.githubusercontent.com/73884598/195063481-c3dfae6e-1029-4b83-af33-187966b7574e.png">
 
 
 
