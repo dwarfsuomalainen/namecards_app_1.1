@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dwarfsuomalainen/namecards_app_1.1/static/css/main.d5d6531b.css",
+    "main.js": "/dwarfsuomalainen/namecards_app_1.1/static/js/main.b863dc34.js",
+    "index.html": "/dwarfsuomalainen/namecards_app_1.1/index.html",
+    "main.d5d6531b.css.map": "/dwarfsuomalainen/namecards_app_1.1/static/css/main.d5d6531b.css.map",
+    "main.b863dc34.js.map": "/dwarfsuomalainen/namecards_app_1.1/static/js/main.b863dc34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d6531b.css",
+    "static/js/main.b863dc34.js"
+  ]
+}
