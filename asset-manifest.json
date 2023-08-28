@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/namecards_app_1.1/static/css/main.d5d6531b.css",
-    "main.js": "/namecards_app_1.1/static/js/main.464a33df.js",
+    "main.js": "/namecards_app_1.1/static/js/main.b863dc34.js",
     "index.html": "/namecards_app_1.1/index.html",
     "main.d5d6531b.css.map": "/namecards_app_1.1/static/css/main.d5d6531b.css.map",
-    "main.464a33df.js.map": "/namecards_app_1.1/static/js/main.464a33df.js.map"
+    "main.b863dc34.js.map": "/namecards_app_1.1/static/js/main.b863dc34.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d6531b.css",
-    "static/js/main.464a33df.js"
+    "static/js/main.b863dc34.js"
   ]
 }
