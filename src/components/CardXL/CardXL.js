@@ -23,7 +23,7 @@ export const CardXL = ({ user }) => {
           <li>username: {user.username}</li>
           <li>email: {user.email}</li>
           <li>phone: {user.phone}</li>
-          <li>company: {user.company.name}</li>
+          {/* <li>company: {user.company.name}</li> */}
           <li>
             website:{" "}
             <a
