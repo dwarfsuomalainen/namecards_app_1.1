@@ -43,7 +43,7 @@
     ]
   },
   "description": "Web application displaying a main page with address cards and providing a full personal information on separete address card. <img width=\"1792\" alt=\"1\" src=\"https://user-images.githubusercontent.com/73884598/195063442-1617b0b2-7bec-43d5-8db7-e4134a78ae50.png\"> <img width=\"1144\" alt=\"2\" src=\"https://user-images.githubusercontent.com/73884598/195063462-7aa9145f-e2f2-4d35-a6e7-7bfb85b3d113.png\"> <img width=\"1028\" alt=\"3\" src=\"https://user-images.githubusercontent.com/73884598/195063481-c3dfae6e-1029-4b83-af33-187966b7574e.png\">",
-  "main": "index.js",
+  "main": "App.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dwarfsuomalainen/namecards_app_1.1.git"
