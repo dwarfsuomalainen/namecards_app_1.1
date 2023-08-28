@@ -34,7 +34,7 @@ export const CardXL = ({ user }) => {
               {user.website}
             </a>
           </li>
-          <li>
+          {/* <li>
             address:
             <ul className={`${styles.list} ${styles.discList}`}>
               <li>street: {user.address.street}</li>
@@ -42,7 +42,7 @@ export const CardXL = ({ user }) => {
               <li>city: {user.address.city}</li>
               <li>zipcode: {user.address.zipcode}</li>
             </ul>
-          </li>
+          </li> */}
         </ul>
         <Button handleClick={handleClick} label="Back to main" />
       </Card.Body>
